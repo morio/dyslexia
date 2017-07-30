@@ -7,4 +7,6 @@ You are welcome!
 
 -J Morio Sakguchi
 
+PS: I plan to get professional help too.
+
 CC4 GPL3 Copyleft 2017 Setechi
